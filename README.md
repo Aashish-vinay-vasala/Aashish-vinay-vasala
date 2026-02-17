@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Laya+Myadam+%F0%9F%91%8B;MS+Student+%40+University+of+North+Texas;Data+Science+%7C+ML+%7C+AI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aashish+Vinay+Vasala+%F0%9F%91%8B;MS+Student+%40+University+of+North+Texas;Artificial+Intelligence+%7C+ML+%7C+AI)
 
 <sub> he/him &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
 
