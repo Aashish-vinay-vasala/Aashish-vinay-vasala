@@ -1,93 +1,60 @@
 <div align="center">
-AASHISH VINAY VASALA
-MS in Artificial Intelligence · University of North Texas
- 
+
+<sub>University of North Texas  ·  Denton, TX  ·  AI Engineer</sub>
 </div>
-┌─────────────────────────────────────────────────────────────────┐
-│  AI Engineer · ML Systems · Distributed Computing · MLOps      │
-└─────────────────────────────────────────────────────────────────┘
+About Me
+I'm a Master's student in Artificial Intelligence at the University of North Texas, focused on building production-grade AI systems that solve real-world problems. I work at the intersection of deep learning research, distributed computing, and scalable cloud infrastructure.
+🎓   MS in Artificial Intelligence @ University of North Texas
+🧠   Specialized in Deep Learning, NLP, and Computer Vision
+☁️   Building ML systems with AWS / Azure / GCP
+📦   Deploying models with Docker and Kubernetes
+💾   Working with big data using Spark and Hadoop
+🚀   Passionate about MLOps and production ML systems
 
+🛠 Tech Stack
+Languages
 
-🎯 SPECIALIZATION
-Building production-grade AI systems at the intersection of machine learning research and scalable infrastructure. Experienced in designing end-to-end ML pipelines — from distributed training on large datasets to containerized deployment in cloud environments.
-Core Competencies:
-Deep Learning (NLP, Computer Vision)
-Distributed Data Processing (Spark, Hadoop)
-Cloud-Native ML Infrastructure
-Model Deployment & Optimization
-MLOps & Production Systems
-
-🛠 TECHNICAL STACK
-<table> <tr> <td valign="top" width="50%">
-Languages & Frameworks
+Machine Learning & Deep Learning
     
-Machine Learning
-    
-Computer Vision & NLP
-  
-</td> <td valign="top" width="50%">
+NLP & Computer Vision
+   
 Big Data & Distributed Systems
   
-Cloud & Infrastructure
-  
-Deployment & MLOps
+Cloud & DevOps
+
+MLOps & Deployment
    
 Databases
-  
-</td> </tr> </table>
-📊 GITHUB METRICS
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=aashish-vinay-vasala&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-vinay-vasala&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" /> </div> <div align="center">
+   
+
+📈 GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=aashish-vinay-vasala&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&icon_color=4A90E2&title_color=4A90E2" /> &nbsp; <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-vinay-vasala&layout=compact&theme=default&hide_border=true&title_color=4A90E2" /> </div> <div align="center">
 
 </div>
-🚀 FEATURED PROJECTS
+📌 Featured Projects
+💡 Pin your best repositories using GitHub's "Pin a repository" feature on your profile page.
 Project
 Description
 Stack
-Status
-[Project Name]
-End-to-end ML pipeline for [problem]. Implemented distributed training with Spark and deployed on AWS ECS.
+🔗 Project Name
+End-to-end ML pipeline with distributed training on Spark
 PyTorch Spark Docker AWS
-🟢 Active
-[Project Name]
-Real-time NLP system for [use case]. Built scalable inference API handling 10K+ requests/min.
+🔗 Project Name
+Real-time NLP inference API handling 10K+ requests/min
 TensorFlow FastAPI Kubernetes
-🟢 Active
-[Project Name]
-Computer vision model achieving [metric]. Optimized for edge deployment with TensorRT.
+🔗 Project Name
+Computer vision model optimized for edge deployment
 PyTorch OpenCV TensorRT
-🟡 Research
-
-<sub>Replace with actual repository links and descriptions</sub>
-
-🔬 RESEARCH INTERESTS
-research_focus = {
-    "model_efficiency": [
-        "Efficient transformer architectures",
-        "Model compression & quantization",
-        "Knowledge distillation"
-    ],
-    "distributed_systems": [
-        "Large-scale distributed training",
-        "Federated learning",
-        "Data parallelism strategies"
-    ],
-    "production_ml": [
-        "Real-time inference optimization",
-        "A/B testing frameworks",
-        "Model monitoring & drift detection"
-    ],
-    "multimodal_ai": [
-        "Vision-language models",
-        "Cross-modal retrieval",
-        "Multimodal fusion techniques"
-    ]
-}
 
 
-📫 CONTACT
-<div align="center">
-Open to research collaborations, ML engineering opportunities, and technical discussions
- 
+🌱 Currently Exploring
+research_interests = [
+    "Efficient transformer architectures for production",
+    "Distributed training strategies for large-scale models",
+    "MLOps best practices & model monitoring",
+    "Multimodal AI (vision-language models)",
+]
 
-
+ <div align="center">
+      
 </div>
