@@ -13,7 +13,7 @@
 
 I'm a Master's student in **Artificial Intelligence** at the **University of North Texas**, exploring the intersection of machine learning, cloud infrastructure, and intelligent systems. I enjoy turning messy, real-world data into decisions that matter.
 
-- 🎓 &nbsp; MS @ **University of North Texas** — Artificial Intelligence
+- 🎓 &nbsp; MS @ **Artificial Intelligence**
 - 🤖 &nbsp; Passionate about **Machine Learning**, **NLP**, and **AI systems**
 - ☁️ &nbsp; Building with **AWS / Azure / GCP** and containerized workflows
 - 📊 &nbsp; Telling stories with data using **Tableau**, **Power BI**, and **R**
