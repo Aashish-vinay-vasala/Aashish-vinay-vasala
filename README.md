@@ -1,7 +1,6 @@
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aashish+Vinay+Vasala+%F0%9F%91%8B;MS+Student+%40+University+of+North+Texas;Artificial+Intelligence+%7C+ML+%7C+AI)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aashish+Vinay+Vasala+%F0%9F%91%8B;MS+Student+%40+University+of+North+Texas;Artificial+Intelligence+%7C+ML+%7C+AI)
 
 <sub> he/him &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
 
@@ -53,20 +52,17 @@ I'm a Master's student in **Artificial Intelligence** at the **University of Nor
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Laya-Myadam&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&icon_color=A78BFA&title_color=A78BFA" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AashishVinayVasala&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&icon_color=14B8A6&title_color=14B8A6" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laya-Myadam&layout=compact&theme=default&hide_border=true&title_color=A78BFA" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishVinayVasala&layout=compact&theme=default&hide_border=true&title_color=14B8A6" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Laya-Myadam&theme=default&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AashishVinayVasala&theme=default&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6)
 
 </div>
-
----
-
 
 ---
 
@@ -84,11 +80,10 @@ current_focus = [
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/layamyadam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aashishvinayvasala/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:myadamlaya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:aashishvinayvasala@gmail.com)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=Laya-Myadam&color=A78BFA&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=AashishVinayVasala&color=14B8A6&style=flat-square&label=Profile+Views)
 
 </div>
-
