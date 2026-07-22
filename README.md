@@ -2,7 +2,7 @@
 
 # Hi, I'm Aashish Vinay Vasala 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=MS+Student+in+Artificial+Intelligence;University+of+North+Texas;Machine+Learning+%7C+NLP+%7C+AI+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=MS+Student+in+Artificial+Intelligence;University+of+North+Texas;Agentic+AI+%7C+RAG+%7C+LLM+Systems)
 
 <sub> he/him &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
 
@@ -12,13 +12,16 @@
 
 ### About Me
 
-I'm a Master's student in **Artificial Intelligence** at the **University of North Texas**, exploring the intersection of machine learning, cloud infrastructure, and intelligent systems. I enjoy turning messy, real-world data into decisions that matter.
+I'm a Master's student in **Artificial Intelligence** at the **University of North Texas**, building toward a career designing and shipping production-grade **agentic AI** and **generative AI** applications. I like taking LLM ideas from prototype to something real users can rely on — reliable, observable, and cost-aware, not just a clever demo.
 
-- 🎓 &nbsp; MS @ **Artificial Intelligence**
-- 🤖 &nbsp; Passionate about **Machine Learning**, **NLP**, and **AI systems**
-- ☁️ &nbsp; Building with **AWS / Azure / GCP** and containerized workflows
-- 📊 &nbsp; Telling stories with data using **Tableau**, **Power BI**, and **R**
-- 🔍 &nbsp; Always looking for interesting problems to solve with data
+My focus is on the full lifecycle of LLM-powered systems: retrieval, orchestration, evaluation, and deployment.
+
+- 🤖 &nbsp; Building **agentic workflows** — tool-calling, multi-step reasoning, multi-agent orchestration with **LangChain**
+- 📚 &nbsp; Designing **RAG pipelines** — vector databases, ingestion, retrieval, and reranking for grounded, accurate responses
+- 🛡️ &nbsp; Prompt engineering with structured outputs, function/tool calling, and guardrails to reduce hallucination
+- ☁️ &nbsp; Deploying and scaling AI services on **AWS / Azure / GCP** with Docker & Kubernetes
+- 📈 &nbsp; Evaluating LLM systems on accuracy, relevance, latency, and cost — not just vibes
+- 🎯 &nbsp; Open to **AI/ML Engineer** roles building applied generative AI systems
 
 ---
 
@@ -33,6 +36,13 @@ I'm a Master's student in **Artificial Intelligence** at the **University of Nor
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+#### Agentic AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -72,9 +82,10 @@ I'm a Master's student in **Artificial Intelligence** at the **University of Nor
 
 ```python
 current_focus = [
-    "Large Language Models & Prompt Engineering",
+    "Multi-agent orchestration & tool-calling frameworks",
+    "RAG architecture: retrieval, reranking & knowledge graphs",
+    "LLM evaluation, observability & cost optimization",
     "MLOps & model deployment pipelines",
-    "Advanced SQL & data engineering patterns",
 ]
 ```
 
