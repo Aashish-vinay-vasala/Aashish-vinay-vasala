@@ -1,6 +1,8 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aashish+Vinay+Vasala+%F0%9F%91%8B;MS+Student+%40+University+of+North+Texas;Artificial+Intelligence+%7C+ML+%7C+AI)
+# Hi, I'm Aashish Vinay Vasala 👋
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=MS+Student+in+Artificial+Intelligence;University+of+North+Texas;Machine+Learning+%7C+NLP+%7C+AI+Systems)
 
 <sub> he/him &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
 
