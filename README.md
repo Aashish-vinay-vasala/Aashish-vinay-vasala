@@ -2,8 +2,6 @@
 
 # Hi, I'm Aashish Vinay Vasala 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=14B8A6&center=true&vCenter=true&width=700&lines=MS+Student+in+Artificial+Intelligence;University+of+North+Texas;Agentic+AI+%7C+RAG+%7C+LLM+Systems)
-
 <sub> he/him &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
 
 </div>
