@@ -1,100 +1,33 @@
-<div align="center">
+<h1 align="center">Hi, I'm Aashish Vinay Vasala 👋</h1> <h3 align="center">AI/ML Engineer | M.S. in Artificial Intelligence | Production ML, LLM Systems & MLOps</h3> <p align="center"> <a href="https://aashish-vinay-vasala.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="mailto:vasalaaashishvinay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Aashish-vinay-vasala"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+🚀 About Me
 
-# Hi, I'm Aashish Vinay Vasala 👋
+I build ML and LLM systems that hold up in production — not just in a notebook. My work spans the full lifecycle: data extraction and modeling, deployment, system integration, and the operational guardrails that keep systems safe and reliable at scale.
 
-<sub> he/him &nbsp;·&nbsp; USA &nbsp;·&nbsp; Open to opportunities</sub>
+I'm looking for a full-time role where I can own ML/LLM systems end-to-end — from data to a production service that's safe, monitored, and built to scale.
 
-</div>
+✅ Things I've Shipped
+🕸️ Agentic AI systems built with LangChain, LangGraph, and MCP (Model Context Protocol) for tool-using, multi-step workflows connecting agents to external data sources and services
+🛡️ LLM-powered applications on GCP with prompt and output guardrails for safety, reliability, and cost control
+📦 Containerized ML services with Docker and Kubernetes, enabling reproducible deployment and horizontal scaling
+⚡ Owned the full AI lifecycle end-to-end — GPU optimization work that cut model training time by 40% and inference latency by 30%, while automating LLM-powered agent workflows
+🤖 Built LLM-powered applications, agent-based systems, and copilots, plus multimodal solutions including computer vision
+🔎 Designed RAG (Retrieval-Augmented Generation) pipelines connecting LLMs to enterprise data sources for accurate, grounded responses at scale
 
----
+🛠️ Core Stack
+<table> <tr> <td valign="top" width="50%">
 
-### About Me
+Languages <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
-I'm a Master's student in **Artificial Intelligence** at the **University of North Texas**, building toward a career designing and shipping production-grade **agentic AI** and **generative AI** applications. I like taking LLM ideas from prototype to something real users can rely on — reliable, observable, and cost-aware, not just a clever demo.
+ML / AI <br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-4B32C3?style=flat-square" /> <br> RAG · Guardrails · Reinforcement Learning · LLM Application Development
 
-My focus is on the full lifecycle of LLM-powered systems: retrieval, orchestration, evaluation, and deployment.
+</td> <td valign="top" width="50%">
 
-- 🤖 &nbsp; Building **agentic workflows** — tool-calling, multi-step reasoning, multi-agent orchestration with **LangChain**
-- 📚 &nbsp; Designing **RAG pipelines** — vector databases, ingestion, retrieval, and reranking for grounded, accurate responses
-- 🛡️ &nbsp; Prompt engineering with structured outputs, function/tool calling, and guardrails to reduce hallucination
-- ☁️ &nbsp; Deploying and scaling AI services on **AWS / Azure / GCP** with Docker & Kubernetes
-- 📈 &nbsp; Evaluating LLM systems on accuracy, relevance, latency, and cost — not just vibes
-- 🎯 &nbsp; Open to **AI/ML Engineer** roles building applied generative AI systems
+Production / MLOps <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> <br> EC2 · S3 · SageMaker · Lambda · CI/CD · Model Monitoring
 
----
+Data & Analytics <br> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> <br> Workflow Automation · SSRS
 
-### 🛠 Tech Stack
+Specialized <br> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <br> Graph Databases
 
-#### Languages
-[![Languages](https://skillicons.dev/icons?i=python,r,java,cpp&theme=light)](https://skillicons.dev)
-
-#### Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-#### Agentic AI & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![PGVector](https://img.shields.io/badge/PGVector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-#### Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=light)](https://skillicons.dev)
-
-#### Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AashishVinayVasala&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&icon_color=14B8A6&title_color=14B8A6" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishVinayVasala&layout=compact&theme=default&hide_border=true&title_color=14B8A6" />
-
-</div>
-
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AashishVinayVasala&theme=default&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6)
-
-</div>
-
----
-
-### 🌱 Currently Learning
-
-```python
-current_focus = [
-    "Multi-agent orchestration & tool-calling frameworks",
-    "RAG architecture: retrieval, reranking & knowledge graphs",
-    "LLM evaluation, observability & cost optimization",
-    "MLOps & model deployment pipelines",
-]
-```
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aashishvinayvasala/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:aashishvinayvasala@gmail.com)
-&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=AashishVinayVasala&color=14B8A6&style=flat-square&label=Profile+Views)
-
-</div>
+</td> </tr> </table>
+📫 Let's Connect
+<p align="center"> <a href="mailto:vasalaaashishvinay@gmail.com">📧 vasalaaashishvinay@gmail.com</a> &nbsp;|&nbsp; <a href="https://aashish-vinay-vasala.github.io/">🔗 Portfolio</a> &nbsp;|&nbsp; <a href="https://github.com/Aashish-vinay-vasala">🔗 GitHub</a> </p>
